@@ -1,0 +1,22 @@
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\bin\Debug\TeaGradenManagement.exe.config
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\bin\Debug\TeaGradenManagement.exe
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\bin\Debug\TeaGradenManagement.pdb
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.GardenManagement.resources
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.Login.resources
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.Product.resources
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.Properties.Resources.resources
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.csproj.GenerateResource.Cache
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.exe
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.pdb
+C:\Users\hp\Music\#### Study ####\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.csprojResolveAssemblyReference.cache
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\bin\Debug\TeaGradenManagement.exe.config
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.exe
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.pdb
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\bin\Debug\TeaGradenManagement.exe
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\bin\Debug\TeaGradenManagement.pdb
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.csprojResolveAssemblyReference.cache
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.GardenManagement.resources
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.Login.resources
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.Product.resources
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.Properties.Resources.resources
+C:\Users\hp\Music\#### Study ####\AIUB life\8th semester\C#\Final\NEW\TeaGradenManagement\TeaGradenManagement\obj\Debug\TeaGradenManagement.csproj.GenerateResource.Cache
