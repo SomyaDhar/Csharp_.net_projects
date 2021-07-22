@@ -77,6 +77,7 @@
             this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnProfList = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
+            this.btnlogout = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.universityView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvprofessors)).BeginInit();
             this.SuspendLayout();
@@ -279,9 +280,9 @@
             this.label3.Font = new System.Drawing.Font("Gabriola", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(401, -4);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(384, 57);
+            this.label3.Size = new System.Drawing.Size(249, 57);
             this.label3.TabIndex = 7;
-            this.label3.Text = ">> Registration  for admission help  <<";
+            this.label3.Text = ">> Admin Operation <<";
             // 
             // txtRegistration
             // 
@@ -426,11 +427,11 @@
             // 
             this.btnApply.BackColor = System.Drawing.Color.DarkTurquoise;
             this.btnApply.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnApply.Location = new System.Drawing.Point(264, 323);
+            this.btnApply.Location = new System.Drawing.Point(546, 310);
             this.btnApply.Name = "btnApply";
             this.btnApply.Size = new System.Drawing.Size(233, 57);
             this.btnApply.TabIndex = 21;
-            this.btnApply.Text = "Apply";
+            this.btnApply.Text = "Delete";
             this.toolTip2.SetToolTip(this.btnApply, "Before click  give all information   then     Click for process your best admissi" +
         "on");
             this.btnApply.UseVisualStyleBackColor = false;
@@ -604,13 +605,25 @@
             this.btnClear.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.btnClear.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnClear.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClear.Location = new System.Drawing.Point(519, 323);
+            this.btnClear.Location = new System.Drawing.Point(416, 310);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(86, 57);
             this.btnClear.TabIndex = 31;
             this.btnClear.Text = "Clear";
             this.btnClear.UseVisualStyleBackColor = false;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // btnlogout
+            // 
+            this.btnlogout.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnlogout.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnlogout.Location = new System.Drawing.Point(1012, 8);
+            this.btnlogout.Name = "btnlogout";
+            this.btnlogout.Size = new System.Drawing.Size(159, 45);
+            this.btnlogout.TabIndex = 33;
+            this.btnlogout.Text = "Logout";
+            this.btnlogout.UseVisualStyleBackColor = false;
+            this.btnlogout.Click += new System.EventHandler(this.btnlogout_Click);
             // 
             // Student1
             // 
@@ -622,6 +635,7 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.CancelButton = this.btnClear;
             this.ClientSize = new System.Drawing.Size(1183, 734);
+            this.Controls.Add(this.btnlogout);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.dgvprofessors);
             this.Controls.Add(this.btnProfList);
@@ -660,6 +674,7 @@
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "University Admission Help Centre";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Student1_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.universityView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvprofessors)).EndInit();
             this.ResumeLayout(false);
@@ -716,6 +731,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
         private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button btnlogout;
     }
 }
 

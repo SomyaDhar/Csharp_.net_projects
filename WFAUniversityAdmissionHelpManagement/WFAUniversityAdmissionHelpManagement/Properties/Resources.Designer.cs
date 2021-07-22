@@ -63,6 +63,16 @@ namespace WFAUniversityAdmissionHelpManagement.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap oxford_1576245233 {
+            get {
+                object obj = ResourceManager.GetObject("oxford-1576245233", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap PE9T2Y {
             get {
                 object obj = ResourceManager.GetObject("PE9T2Y", resourceCulture);

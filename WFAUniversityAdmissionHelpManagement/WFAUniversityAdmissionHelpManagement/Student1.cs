@@ -16,6 +16,8 @@ namespace WFAUniversityAdmissionHelpManagement
         private DataSet Ds { get; set; }
         private string Sql { get; set; }
         private byte count;
+        private byte value;
+
         public Student1()
         {
             InitializeComponent();
@@ -102,18 +104,23 @@ namespace WFAUniversityAdmissionHelpManagement
             try
             {
 
+                if (value != 1)
+                {
 
-                 this.Sql = @"insert into RegistrationInfo
+                    this.Sql = @"insert into RegistrationInfo
                        values ('" + this.txtCName.Text + "','" + this.txtHscRoll.Text + "','" + this.txtSscRoll.Text + "','" + this.txtRegistration.Text + "','" + this.cmbGender.Text + "','" + this.txtEmail.Text + "','" + this.txtMobile.Text + "','" + this.txtSelectedUName.Text + "','" + this.cmbSubject.Text + "','" + this.cmbSemester.Text + "');";
-                 int num = this.Da.ExecuteUpdateQuery(this.Sql);
-                if (num == 1)
-                {
-                    MessageBox.Show("Successfully  Regestered \n Thank you");
+                    int num = this.Da.ExecuteUpdateQuery(this.Sql);
+                    if (num == 1)
+                    {
+                        MessageBox.Show("Successfully  Regestered \n Thank you");
+                        this.value = 1;
+                    }
+                    else
+                    {
+                        MessageBox.Show(" Registration failed");
+                    }
                 }
-                else
-                {
-                    MessageBox.Show(" Registration failed");
-                 }
+
                     this.PopulateGridView();
              }
                catch (Exception exc)
@@ -166,6 +173,19 @@ namespace WFAUniversityAdmissionHelpManagement
             this.txtSearch.Clear();
           
 
+        }
+
+        private void Student1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnlogout_Click(object sender, EventArgs e)
+        {
+            Login fr = new Login();
+            fr.Visible = true;
+            this.Visible = false;
+            value = 0;
         }
 
         

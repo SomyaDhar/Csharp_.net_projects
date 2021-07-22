@@ -16,7 +16,7 @@ namespace WFAUniversityAdmissionHelpManagement
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Student1());
+            Application.Run(new Login());
         }
     }
 }
