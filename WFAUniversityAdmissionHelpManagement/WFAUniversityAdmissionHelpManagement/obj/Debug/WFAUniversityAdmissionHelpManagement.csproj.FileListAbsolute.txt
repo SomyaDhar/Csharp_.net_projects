@@ -1,0 +1,9 @@
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\bin\Debug\WFAUniversityAdmissionHelpManagement.exe.config
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\bin\Debug\WFAUniversityAdmissionHelpManagement.exe
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\bin\Debug\WFAUniversityAdmissionHelpManagement.pdb
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\obj\Debug\WFAUniversityAdmissionHelpManagement.Student1.resources
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\obj\Debug\WFAUniversityAdmissionHelpManagement.Properties.Resources.resources
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\obj\Debug\WFAUniversityAdmissionHelpManagement.csproj.GenerateResource.Cache
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\obj\Debug\WFAUniversityAdmissionHelpManagement.exe
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\obj\Debug\WFAUniversityAdmissionHelpManagement.pdb
+C:\Users\hp\Music\#### Study ####\C#\Final\Project\WFAUniversityAdmissionHelpManagement\WFAUniversityAdmissionHelpManagement\obj\Debug\WFAUniversityAdmissionHelpManagement.csprojResolveAssemblyReference.cache
